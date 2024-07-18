@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 date: 2024-08-01
 author: Javier Garcia-Bernardo and Laura Boeschoten
 title: Group project guidelines
