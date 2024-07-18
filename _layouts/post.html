@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<p>Updated at: {{ page.date | date: "%-d %B %Y" }} ({{ page.author | default: site.author }})</p>
+<small></small>
+
+<h1>{{ page.title }}</h1>
+
+{{content}}
+
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
