@@ -20,11 +20,20 @@ This website contains all information of the course _Introduction to digital tra
 | 1    | Sep 9 (Fr)             | Lecture: Introduction to digital trace data | Read [BbB chapters 1.1-1.4, 2.1-2.5](https://www.bitbybitbook.com/en/1st-ed/preface/) | 
 | 1    | Sep 9 (Fr)             | Lab: Introduction to digital trace data     | Create a Google Account | 
 | 1    | Sep 9 (Fr)             | Group project starts                        | nothing to do  | 
-| 2    | Sep 13 (Fr)            | Lecture: User-centric approaches to DTD     |   | 
+| 2    | Sep 13 (Fr)            | Lecture: User-centric approaches to DTD     | [WAS chapter 1](https://bookdown.org/wasbook_feedback/was/Intro1.html#Intro1), [Ohme et al. (2023)](https://www.tandfonline.com/doi/full/10.1080/19312458.2023.2181319) and [Boeschoten et al. (2022) pp.388-394](https://www.aup-online.com/content/journals/10.5117/CCR2022.2.002.BOES)   | 
 | 2    | Sep 13 (Fr)            | Lab: User-centric approaches to DTD         |   | 
-| 3    | Sep 13 (Fr)            | Lecture: Platform-centric approaches to DTD |   | 
-| 3    | Sep 13 (Fr)            | Lab: Platform-centric approaches to DTD     |   | 
+| 3    | Sep 20 (Fr)            | Lecture: Platform-centric approaches to DTD |   | 
+| 3    | Sep 20 (Fr)            | Lab: Platform-centric approaches to DTD     |   | 
 | 4    | Sep 25 (We)            | Group project feedback I                    | See [project guidelines](project.html)  | 
+| 4    | Sep 27 (Fr)            | Lecture: Errors in DTD collection           | Read [BbB chapter 3.1-3.4](https://www.bitbybitbook.com/en/1st-ed/preface/), [WASbook chapter 4](https://bookdown.org/wasbook_feedback/was/CoverageSampling4.html#CoverageSampling4) and [Data femiminism Introduction and chapter 1](https://data-feminism.mitpress.mit.edu/)
+| 4    | Sep 27 (Fr)            | Lab: Errors in DTD collection               |   | 
+| 5    | Oct 4 (Fr)             | Lecture:                                    |   | 
+| 5    | Oct 4 (Fr)             | Lab:                                        |   | 
+| 6    | Oct 11 (Fr)            | Lecture: Ethics                             | Read [BbB chapter 6](https://www.bitbybitbook.com/en/1st-ed/preface/), [Keymolen & Taylor (2023)](https://link.springer.com/chapter/10.1007/978-3-031-19554-9_20)  | 
+| 6    | Oct 11 (Fr)            | Lab: Ethics                                 |   | 
+| 7    | Oct 16 (We)            | Group project feedback II                   |   | 
+| 7    | Oct 18 (Fr)            | Lecture: Designed big data                  | Read [BbB chapter 3.6](https://www.bitbybitbook.com/en/1st-ed/preface/), [Big data & Social science chapter 3.1 - 3.4](https://textbook.coleridgeinitiative.org/), [Eckman et al. (2024)](https://arxiv.org/pdf/2403.01208)  | 
+| 7    | Oct 18 (Fr)            | Lab: Designed big data                      |   | 
 
 
 <!-- ```js

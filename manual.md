@@ -64,9 +64,28 @@ At the end of the course:
 
 ## Required readings (in progress)
 During the course, we will use the following readings:
+### Books: 
 * [Bit by Bit: Social Research in the Digital Age](https://www.bitbybitbook.com/en/1st-ed/preface/) by Matthew J. Salganik
+  * Chapter 3: 3.1 - 3.4 & 3.6 
+  * Chapter 6 
 * Webscraping and APIs:
   * Chapter 8: [Social Network Analysis for Social Scientists](https://jochemtolsma.github.io/SNA-4-Social-Scientists/webintro.html) by Jochem Tolsma & Bas Hofstra
   * Chapter 12: [Computational Analysis of Communication](https://cssbook.net/) by Wouter van Atteveldt, Damian Trilling & Carlos Arcila
+* [Data collection with Wearables, Apps and Sensors](https://bookdown.org/wasbook_feedback/was/) by Florian Keusch, Bella Struminskaya, Stephanie Eckman, & Heidi Guyer
+  * Chapter 1
+  * Chapter 4
+* [Data feminism](https://data-feminism.mitpress.mit.edu/) by Catherine D'Ignazio and Lauren F. Klein
+  * Introduction
+  * Chapter 1 
+* [Big data and social science](https://textbook.coleridgeinitiative.org/) by Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter and Julia Lane
+  * Chapter 3.1 - 3.4
+
+### Articles: 
+* [Ohme, J. Araujo, T. Boeschoten, L., Freelon. D. Ram, N., Reeves, B.B. & Robinson, T.N. (2024) Digital Trace Data Collection for Social Media Effects Research: Apis, Data Donation and (Screen) Tracking, Communication Methods and Measures, 18(2) 124-141. https://doi.org/10.1080/19312458.2023.2181319](https://www.tandfonline.com/doi/full/10.1080/19312458.2023.2181319)
+* [Boeschoten, L. Ausloos, J. Möller, J.E., Araujo, T. & Oberski, D.L. (2022) A framework for privacy preserving digital trace data collection through data donation, Computational communication research 4(2), 388 – 423 https://doi.org/10.5117/CCR2022.2.002.BOES ](https://www.aup-online.com/content/journals/10.5117/CCR2022.2.002.BOES) p. 388 - 394
+* [Keymolen, E., Taylor, L. (2023). Data Ethics and Data Science: An Uneasy Marriage?. In: Liebregts, W., van den Heuvel, WJ., van den Born, A. (eds) Data Science for Entrepreneurship. Classroom Companion: Business. Springer, Cham. https://doi.org/10.1007/978-3-031-19554-9_20](https://link.springer.com/chapter/10.1007/978-3-031-19554-9_20)
+* [Eckman, S., Plank, B. & Kreuter, F. (2024). Position: Insights from Survey Methodology can Improve Training Data, arXiv:2403.01208v2](https://arxiv.org/pdf/2403.01208) 
+
+
 
 
