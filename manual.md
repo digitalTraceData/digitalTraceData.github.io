@@ -46,8 +46,8 @@ The use of generative AI must be clearly indicated in the assignment, clearly id
 * General questions about the course: Email course coordinator (Javier)
 * Questions about the lectures: Email lecturer (Laura or Javier)
 * Questions about the group project: Email lecturer (Laura or Javier)
-* Questions about the practicals: Email [Daniel?]
-* Questions about grading: Email [Daniel?]
+* Questions about the practicals (including grading): Email Thijs
+
 
 ### Course objectives and learning outcomes:
 The course aims to provide students with foundational knowledge in digital behavioral data, focusing on collecting, analyzing, and interpretating such data.

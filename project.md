@@ -15,17 +15,21 @@ The group project is a central part of the course. The project is designed to gi
 
 
 ## Assignment 1: Errors in data collection (30% of the grade)
-In the first assignment you will develop a research question, and identify and discuss the errors that you anticipate and encounter when collecting data to answer it. You will collect text data using one of the methods explained in the lectures/labs (data donation, scraping, APIs). 
+In the first assignment you will develop a research question, collect text data using one of the methods explained in the lectures/labs (data donation, scraping, APIs), and identify and discuss the errors that you anticipate and encounter when collecting data to answer it.  
 
 The outcome is a short report (<1000 words) that you will submit in week 5 (see weekly schedule). You will receive feedback from the lecturers during the feedback sessions (weeks 3 and 4).
 
 Steps:
-- Decide on a specific RQ and a target dataset. Since you will use the data in the second assignment, make sure that the data is suitable for the analysis you have in mind. In the second assignment, you will label the data using text classification models. These allow you to analyze text data in terms of the content of the text. We recommend you to use one of the proposed themes: political polarization, hate speech, personality traits or mental health. 
+- Decide on a specific RQ and a target dataset. Since you will use the data in the second assignment, make sure that the data is suitable for the analysis you have in mind. In the second assignment, you will label the data using text classification models, converting the text to a numerical value. We recommend you to use one of the proposed themes: political polarization, hate speech, personality traits or mental health. 
 - Collect the data using the methods explained in the lectures/labs: either data donation (lab 2), or scraping/APIs (lab 3)
-- Attend _Feedback session I_ to discuss your progress
+- Attend _Feedback session I_ to discuss your progress. Ideally prepare a couple slides with your progress. 
 - Discuss the errors (representation and measurement) that you anticipate when answering the RQ with the proposed data, ideally by comparing the data with other sources of information (e.g. representative surveys).
-- Attend _Feedback session II_ to discuss your progress.
+- Attend _Feedback session II_ to discuss your progress. Ideally prepare a couple slides with your progress. 
 - Submit a short report (<1000 words) in week 5 (see weekly schedule)
+
+Grading (rubrics will be provided):
+- Process: 30% (communication and preparation for feedback sessions)
+- Report: 70%
 
 
 ## Assignment 2: Errors in data labeling and moving past errors
@@ -38,7 +42,11 @@ You will receive feedback from the lecturers during the feedback sessions (weeks
 Steps:
 - Run a text classification model of your choice from [Hugging Face](https://huggingface.co/models) on the data collected in the first assignment.
 - Reflect on the biases you expect during the labeling process, and the origin of those biases
-- Attend _Feedback session III_ to discuss your progress
+- Attend _Feedback session III_ to discuss your progress. Ideally prepare a couple slides with your progress. 
 - Reflect on how you would expand the study to tackle these issues. What type of data would you need to collect?
-- Attend _Feedback session IV_ to discuss your progress
+- Attend _Feedback session IV_ to discuss your progress. Ideally prepare a couple slides with your progress. 
 - Present the group project in week 8 (see weekly schedule)
+
+Grading (rubrics will be provided):
+- Process: 50% (communication and preparation for feedback sessions)
+- Presentation: 50% (assessed by classmates)
