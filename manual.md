@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-22
+date: 2024-08-28
 author: Javier Garcia-Bernardo and Laura Boeschoten
-title: Course manual (draft, subject to change before September 1st)
+title: Course manual 
 ---
 
 _Introducton to digital trace data_ provides students with foundational knowledge in digital behavioral data, focusing on collecting, analyzing, and interpretating such data. The course emphasizes various data types and methodologies, and the implications that data and algorithmic biases play on reinforcing inequalities.
@@ -35,7 +35,7 @@ Plagiarism and fraud are serious academic offenses. Plagiarism is defined as the
 
 
 The use of generative AI (e.g., chatGPT) in the group assignment is allowed __only__ for the following cases:
-- Creating code to analyze data
+- Creating code to analyze data, or explaining code
 - Labeling data
 - Copy-editing text (i.e., making the text more readable, but not changing the content)
 
