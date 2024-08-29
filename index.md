@@ -17,9 +17,9 @@ This website contains all information of the course _Introduction to digital tra
 
 | Week | Date                   | Content                                     | Before the session   | 
 |:-----|:-----------------------|:--------------------------------------------|:---------------------|
-| 1    | Sep 9 (Fr)             | Lecture: Introduction to digital trace data | Read [BbB chapters 1.1-1.4, 2.1-2.5](https://www.bitbybitbook.com/en/1st-ed/preface/) | 
-| 1    | Sep 9 (Fr)             | Lab: Introduction to digital trace data     |   | 
-| 1    | Sep 9 (Fr)             | Group project starts                        |   | 
+| 1    | Sep 6 (Fr)             | Lecture: Introduction to digital trace data | Read [BbB chapters 1.1-1.4, 2.1-2.5](https://www.bitbybitbook.com/en/1st-ed/preface/) | 
+| 1    | Sep 6 (Fr)             | Lab: Introduction to digital trace data     |   | 
+| 1    | Sep 6 (Fr)             | Group project starts                        |   | 
 | 2    | Sep 13 (Fr)            | Lecture: User-centric approaches to DTD     | [WAS chapter 1](https://bookdown.org/wasbook_feedback/was/Intro1.html#Intro1), [Ohme et al. (2023)](https://www.tandfonline.com/doi/full/10.1080/19312458.2023.2181319) and [Boeschoten et al. (2022) pp.388-394](https://www.aup-online.com/content/journals/10.5117/CCR2022.2.002.BOES)   | 
 | 2    | Sep 13 (Fr)            | Lab: User-centric approaches to DTD         |   | 
 | 3    | Sep 18 (We)            | Group project feedback I                    | See [project guidelines](project.html)  | 
