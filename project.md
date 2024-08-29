@@ -22,7 +22,7 @@ The outcome is a short report (<1,000 words excluding references and potential f
 
 Steps:
 - Write a group contract: a short signed group agreement stating each person's responsibilities and the consequences of violating the agreement (e.g., getting kicked out of the group). You can find a template [here](https://docs.google.com/document/d/1VdUVTzQaxsFTXqVFKyJlNi9FZ_WlRKkHP-da_1MlPxI/edit?usp=sharing)
-- Decide on a specific research question and a target dataset. Since you will use the data in the second assignment, make sure that the data is suitable for the analysis you have in mind. In the second assignment, you will label the data using text classification models, converting the text to a numerical value. We recommend you to use one of the proposed themes: political polarization, hate speech, personality traits or mental health. 
+- Decide on a specific research question and a target dataset. Since you will use the data in the second assignment, make sure that the data is suitable for the analysis you have in mind. In the second assignment, you will label the data using text classification models using a machine learning model. These models classify text, for example detecting the presence of hate speech, political leaning, personality traits or different emotions. We recommend you to use one of the proposed themes: political polarization, hate speech, personality traits or mental health. 
 - Fill the [PRIDE Questionnaire for approval Single Study](https://ferb.sites.uu.nl/wp-content/uploads/sites/432/2020/12/PRIDE-Questionnaire-for-approval-Single-Study.docx), which helps conduct the project in an ethically responsible manner and in accordance with legislation. 
 - Start collecting the data using the methods explained in the lectures/labs: either data donation/plug-ins (lab 2), or scraping/APIs (lab 3)
 - Attend _Feedback session I_ (week 3) to discuss your progress. Ideally prepare a couple slides with your progress. Bring the completed PRIDE questionnaire for discussion. Bring and hand in a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members.
@@ -44,7 +44,7 @@ The outcome is a final presentation (15 minutes) that you will present in week 8
 You will receive feedback from the lecturers during the feedback sessions (weeks 7 and 8).
 
 Steps:
-- Run a text classification model of your choice from [Hugging Face](https://huggingface.co/models) on the data collected in the first assignment. The model should be appropriate to answer your research question.
+- Run a text classification model of your choice from [Hugging Face](https://huggingface.co/models) on the data collected in the first assignment. These models classify text, for example detecting the presence of hate speech, political leaning, personality traits or different emotions. The model should be appropriate to answer your research question.
 - Reflect on the biases you expect during the labeling process, and the origin of those biases.
 - Attend _Feedback session III_ (week 7) to discuss your progress. Ideally prepare a couple slides with your progress. Bring and hand in a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members.
 - Reflect on how you would expand the study to tackle these issues. What type of data would you need to collect?
