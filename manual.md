@@ -61,7 +61,7 @@ At the end of the course:
 * Students are able to present on research findings and insights to specialist and non-specialist audiences clearly and unambiguously in English
  
 
-## Required readings (in progress)
+## Required readings (not complete)
 During the course, we will use the following readings:
 ### Books: 
 * [Bit by Bit: Social Research in the Digital Age](https://www.bitbybitbook.com/en/1st-ed/preface/) by Matthew J. Salganik
@@ -69,9 +69,6 @@ During the course, we will use the following readings:
   * Chapter 2: 2.1 - 2.5
   * Chapter 3: 3.1 - 3.4 & 3.6 
   * Chapter 6 
-<!-- * Webscraping and APIs:
-  * Chapter 8: [Social Network Analysis for Social Scientists](https://jochemtolsma.github.io/SNA-4-Social-Scientists/webintro.html) by Jochem Tolsma & Bas Hofstra
-  * Chapter 12: [Computational Analysis of Communication](https://cssbook.net/) by Wouter van Atteveldt, Damian Trilling & Carlos Arcila -->
 * [Data collection with Wearables, Apps and Sensors](https://bookdown.org/wasbook_feedback/was/) by Florian Keusch, Bella Struminskaya, Stephanie Eckman, & Heidi Guyer
   * Chapter 1
   * Chapter 4
