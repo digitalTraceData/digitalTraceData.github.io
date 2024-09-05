@@ -13,6 +13,7 @@ The slides used in the first lab are available [here](https://surfdrive.surf.nl/
 * The project consists of two assignments, each worth 30% of the final grade. 
 * The groups will be formed in the first practical. If you miss the first practical, you will not be able to participate in the group project and will fail the course.
 * The progress will be tracked in four feedback sessions, a 15 minute meeting with the lectures to discuss the progress of the project. The feedback sessions are mandatory.
+* Upload the group contract, the written report and the presentation through [this link](https://surfdrive.surf.nl/files/index.php/s/HgeNKHK8K9JS4jW). Please name your file contract_groupX.pdf, report_groupX.pdf, presentation_groupX.pdf. 
 
 
 ## Assignment 1: Errors in data collection (30% of the grade)

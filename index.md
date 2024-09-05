@@ -12,6 +12,9 @@ This website contains all information of the course _Introduction to digital tra
 * **Lecture and rooms**: Check [MyTimetable](https://mytimetable.uu.nl/schedule/) for the most up-to-date information. 
 * **Course manual**: [Here](./manual.html).
 * **Group project guidelines**: [Here](./project.html).
+* **Link to upload assignments**: [Labs](https://surfdrive.surf.nl/files/index.php/s/rUTjwWP2uPiRrBy), [Project](https://surfdrive.surf.nl/files/index.php/s/HgeNKHK8K9JS4jW).
+
+
 
 ## Weekly schedule
 
