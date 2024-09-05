@@ -32,7 +32,7 @@ Steps:
 - Finish assessing the errors in the data, ideally by comparing the data with other sources of information (e.g. representative surveys).
 - Submit the PRIDE questionnaire and a short report (<1,000 words excluding references and potential figures) in week 5 (see weekly schedule).
 
-Grading (rubrics available [here](https://surfdrive.surf.nl/files/index.php/s/RZLS0LL37MLMJiw)):
+Grading:
 - Process: 30% (communication and preparation for feedback sessions). This is an individual grade.
 - Report: 70%. This is a group grade.
 
@@ -53,6 +53,6 @@ Steps:
 - Attend _Feedback session IV_ (week 8) to discuss your progress. Ideally prepare a couple slides with your progress. Bring and hand in a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members.
 - Present the group project in week 8 (see weekly schedule)
 
-Grading (rubrics available [here](https://surfdrive.surf.nl/files/index.php/s/RZLS0LL37MLMJiw)):
+Grading:
 - Process: 30% (communication and preparation for feedback sessions). This is an individual grade.
 - Presentation: 70%. This is a group grade.
