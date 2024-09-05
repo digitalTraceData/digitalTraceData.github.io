@@ -1,13 +1,13 @@
 ---
 layout: post
-date: 2024-08-01
+date: 2024-09-01
 author: Javier Garcia-Bernardo and Laura Boeschoten
 title: Group project guidelines
 ---
 
 The group project is a central part of the course. The project is designed to give you hands-on experience with digital trace data, and to apply the knowledge you have gained in the course to a real-world problem. In the practical you will work in groups to collect text data, label it using Natural Language Processing models, discuss the errors and biases that you encounter in the data, and interpret the results in light of the errors.
 
-The slides used in the first lab are available [here](https://surfdrive.surf.nl/files/index.php/s/eC188WPkihnWC2I)
+The slides used in the first lab are available [here](https://surfdrive.surf.nl/files/index.php/s/eC188WPkihnWC2I).
 
 ## Practical information
 * The project consists of two assignments, each worth 30% of the final grade. 
@@ -25,12 +25,12 @@ Steps:
 - Write a group contract: a short signed group agreement stating each person's responsibilities and the consequences of violating the agreement (e.g., getting kicked out of the group). You can find a template [here](https://docs.google.com/document/d/1VdUVTzQaxsFTXqVFKyJlNi9FZ_WlRKkHP-da_1MlPxI/edit?usp=sharing)
 - Decide on a specific research question and a target dataset. Since you will use the data in the second assignment, make sure that the data is suitable for the analysis you have in mind. In the second assignment, you will label the data using text classification models using a machine learning model. These models classify text, for example detecting the presence of hate speech, political leaning, personality traits or different emotions. We recommend you to use one of the proposed themes: political polarization, hate speech, personality traits or mental health. 
 - Fill the [PRIDE Questionnaire for approval Single Study](https://ferb.sites.uu.nl/wp-content/uploads/sites/432/2020/12/PRIDE-Questionnaire-for-approval-Single-Study.docx), which helps conduct the project in an ethically responsible manner and in accordance with legislation. 
-- Start collecting the data using the methods explained in the lectures/labs: either data donation/plug-ins (lab 2), or scraping/APIs (lab 3)
+- Start collecting the data using the methods explained in the lectures/labs: either data donation/plug-ins (lab 2), or scraping/APIs (lab 3).
 - Attend _Feedback session I_ (week 3) to discuss your progress. Ideally prepare a couple slides with your progress. Bring the completed PRIDE questionnaire for discussion. Bring and hand in a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members.
 - Finish collecting the data and discuss the errors (representation and measurement) that you anticipate when answering the research question with the proposed data.
 - Attend _Feedback session II_ (week 4) to discuss your progress. Ideally prepare a couple slides with your progress. Bring and hand in a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members.
 - Finish assessing the errors in the data, ideally by comparing the data with other sources of information (e.g. representative surveys).
-- Submit the PRIDE questionnaire and a short report (<1,000 words excluding references and potential figures) in week 5 (see weekly schedule)
+- Submit the PRIDE questionnaire and a short report (<1,000 words excluding references and potential figures) in week 5 (see weekly schedule).
 
 Grading (rubrics available [here](https://surfdrive.surf.nl/files/index.php/s/RZLS0LL37MLMJiw)):
 - Process: 30% (communication and preparation for feedback sessions). This is an individual grade.
