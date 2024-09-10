@@ -9,6 +9,25 @@ The group project is a central part of the course. The project is designed to gi
 
 The slides used in the first lab are available [here](https://surfdrive.surf.nl/files/index.php/s/eC188WPkihnWC2I).
 
+## Timeslots for the Wednesday feedback moments (see dates and location on MyTimetable)
+
+- Location: BOL - 2.115 (please double check on MyTimetable)
+- Come prepared: Bring and hand in a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members.
+- Ideally bring 1-2 slides with your progress so far and your proposed next steps.
+
+
+| Group   | Timeslot            | Instructors             |
+|:--------|:--------------------|:------------------------|
+| Uncia   | 13:15-13:30         | Thijs + Javier          |
+| Tigris  | 13:35-13:50         | Thijs + Javier          |
+| Lynx    | 13:55-14:10         | Thijs + Javier          |
+| Onca    | 14:15-14:30         | Thijs + Javier          |
+| Pardus  | 14:45-15:00         | Thijs + Laura           |
+| Cheetah | 15:05-15:20         | Thijs + Laura           |
+| Caracal | 15:25-15:40         | Thijs + Laura           |
+| Leo     | 15:45-16:00         | Thijs + Laura           |
+
+
 ## Practical information
 * The project consists of two assignments, each worth 30% of the final grade. 
 * The groups will be formed in the first practical. If you miss the first practical, you will not be able to participate in the group project and will fail the course.
