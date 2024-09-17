@@ -40,7 +40,7 @@ In the first assignment you will develop a research question, collect text data 
 
 The outcome is a short report (<1,000 words excluding references and potential figures) that you will submit in week 5 (see weekly schedule). You will receive feedback from the lecturers during the feedback sessions (weeks 3 and 4).
 
-Please find the template and the rubric of assignment 1 [here](digitaltracedata.github.io/materials/template_assignment1.docx).
+Please find the template and the rubric of assignment 1 [here](https://digitaltracedata.github.io/materials/template_assignment1.docx).
 
 Steps:
 - Write a group contract: a short signed group agreement stating each person's responsibilities and the consequences of violating the agreement (e.g., getting kicked out of the group). You can find a template [here](https://docs.google.com/document/d/1VdUVTzQaxsFTXqVFKyJlNi9FZ_WlRKkHP-da_1MlPxI/edit?usp=sharing)
