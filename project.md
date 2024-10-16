@@ -61,7 +61,10 @@ Grading:
 ## Assignment 2: Errors in data labeling and moving past errors
 In the second assignment you will further analyze the data collected in the first assignment to answer the RQ. For this you will use a Natural Language Processing model of your choice to label the data, which you will learn on week 5. These type of models can predict things from text. For example, they can predict if the text contains hate speech, polarized content, negative language, or specific personality traits. You will discuss the biases that you encounter in the labeling process, and how you will move past these errors in data collection and data labeling.
 
-The outcome is a final presentation (15 minutes) that you will present in week 8 (see weekly schedule).
+The outcome is a final presentation (10-15 minutes + 5-10 minutes of Q&A) that you will present in week 8 (see weekly schedule). Please submit the final presentation using the upload link on October 24th (before 23:59). Name your slides `presentation_groupX.pdf/pptx`.
+
+Please find the template and the rubric of assignment 2 [here](https://digitaltracedata.github.io/materials/template_assignment2.docx).
+
 
 You will receive feedback from the lecturers during the feedback sessions (weeks 7 and 8).
 
