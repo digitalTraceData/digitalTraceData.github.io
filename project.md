@@ -70,6 +70,7 @@ Steps:
 - Reflect on the biases you expect during the labeling process, and the origin of those biases.
 - Attend _Feedback session III_ (week 7) to discuss your progress. Ideally prepare a couple slides with your progress. Bring and hand in a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members.
 - Reflect on how you would expand the study to tackle these issues. What type of data would you need to collect?
+- Reflect on the ethical principles discussed through the course. Is your project aligned with them?
 - Draft the final presentation.
 - Attend _Feedback session IV_ (week 8) to discuss your progress. Ideally prepare a couple slides with your progress. Bring and hand in a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members.
 - Present the group project in week 8 (see weekly schedule)
