@@ -8,3 +8,7 @@ exclude:
   - LICENSE
   - README.md
   - run.sh
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
