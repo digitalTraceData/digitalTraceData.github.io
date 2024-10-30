@@ -41,7 +41,7 @@ This website contains all information of the course _Introduction to digital tra
 | 7    | Oct 18 (Fr)            | [Lab: Designed big data](https://colab.research.google.com/github/digitalTraceData/digitalTraceData.github.io/blob/main/materials/lab7/lab7.ipynb)                      |   | 
 | 8    | Oct 23 (We)            | Group project feedback IV                   | See [project guidelines](project.html)  | 
 | 8    | Oct 25 (Fr)            | Deadline: Group presentation                | See [project guidelines](project.html)  | 
-| 9    | Oct 30 (We)            | Final recap and Q&A                         | Prepare for exam, bring questions | 
+| 9    | Oct 30 (We)            | [Final recap and Q&A](https://github.com/digitalTraceData/digitalTraceData.github.io/raw/main/materials/lecture8_dtd.pdf)                          | Prepare for exam, bring questions | 
 | 9    | Nov 1 (Fr)             | Final exam                                  |  | 
 | x    | Nov 15 (Fr)            | Exam inspection                             |  | 
 | x    | Nov 22 (Fr)            | Resit exam                                  |  | 
