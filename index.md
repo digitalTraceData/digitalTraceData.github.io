@@ -9,6 +9,7 @@ This website contains all information of the course _Introduction to digital tra
 ## Important information
 
 * **Instructors**: Javier Garcia-Bernardo, Laura Boeschoten, Thijs Carrière
+* **Assistant**: Jonathan Koop
 * **Lecture and rooms**: Check [MyTimetable](https://mytimetable.uu.nl/schedule/) for the most up-to-date information. 
 * **Course manual**: [Here](./manual.html).
 * **Group project guidelines**: [Here](./project.html).
