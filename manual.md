@@ -26,6 +26,7 @@ If you miss a session (e.g., due to sickness), you should catch up in the regula
 To pass the course you need:
 - Participate in the group project: We will create the groups for the group project during the first practical. If you miss that practical you will not be able to participate in the group project and will fail the course. 
 - To attend all four feedback sessions of the group project (see the [project guidelines](project.html)).
+- Have a grade above 5.5 in all components (the two projects and the final exam).
 - To have a final grade greater than or equal to 5.5. The final grade is based on the group project and the final exam. The group project consists of two assignments, each worth 30% of the final grade. The final exam is worth 40% of the final grade.
 
 Resit: If the final grade is between 4.0 and 5.4, students may resit the exam. The resit will replace the grade from th exam. **To have the right to the resit you need to attend over 80% of the practicals (i.e., at least 6) and hand-in your answers to the practical (in a PDF file) the Monday after each practical before 17:00 through [this link](https://surfdrive.surf.nl/files/index.php/s/rUTjwWP2uPiRrBy). Make sure to name your file "labX_lastname.pdf".**
