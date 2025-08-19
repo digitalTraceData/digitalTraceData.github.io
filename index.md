@@ -17,7 +17,8 @@ This website contains all information of the course _Introduction to digital tra
 
 
 ## Weekly schedule
-<!-- 
+
+Please note that the links to the lectures and labs may be updated until the Monday before the lecture/lab. 
 
 | Week | Date                   | Content                                     | Before the session   | 
 |:-----|:-----------------------|:--------------------------------------------|:---------------------|
@@ -36,30 +37,10 @@ This website contains all information of the course _Introduction to digital tra
 | 5    | Oct 1 (We)             | [Lab: The role of AI in DTD](https://colab.research.google.com/github/digitalTraceData/digitalTraceData.github.io/blob/main/materials/lab5/lab5.ipynb) ([Solutions](https://colab.research.google.com/github/digitalTraceData/digitalTraceData.github.io/blob/main/materials/lab5/lab5_solutions.ipynb))                                  |   |     
 | 5    | Oct 3 (Fr)              | Deadline group project                      | See [project guidelines](project.html)  |               
 | 6    | Oct 8 (We)             | [Lecture: Ethics](https://github.com/digitalTraceData/digitalTraceData.github.io/raw/main/materials/lecture6_dtd.pdf)                            | Read [BbB chapter 6](https://www.bitbybitbook.com/en/1st-ed/preface/), [Keymolen & Taylor (2023)](https://link.springer.com/chapter/10.1007/978-3-031-19554-9_20) and [Nissenbaum (2004)](http://www.contrib.andrew.cmu.edu/~danupam/RevnissenbaumDTP31.pdf)  | 
-| 6    | Oct 8 (We)             | [Lab: Ethics](https://colab.research.google.com/github/digitalTraceData/digitalTraceData.github.io/blob/main/materials/lab6/lab6.ipynb) |   |  -->
-
-
-| Week | Date                   | Content                                     | Before the session   | 
-|:-----|:-----------------------|:--------------------------------------------|:---------------------|
-| 1    | Sep 3 (We)             | | Read [BbB chapters 1.1-1.4, 2.1-2.5](https://www.bitbybitbook.com/en/1st-ed/preface/) | 
-| 1    | Sep 3 (We)             | |   | 
-| 1    | Sep 3 (We)             | Group project starts                        |   | 
-| 2    | Sep 10 (We)            | | [WAS chapter 1](https://bookdown.org/wasbook_feedback/was/Intro1.html#Intro1), [Boeschoten et al. (2022)](https://www.aup-online.com/content/journals/10.5117/CCR2022.2.002.BOES), [Ram et al., (2019)](https://doi.org/10.1177/0743558419883362) and [Hendrickx (2025)](https://doi.org/10.1177/10776990251328623)| 
-| 2    | Sep 10 (We)            | |   | 
-| 3    | Sep 17 (We)            | | Big data book [chapter 2](https://textbook.coleridgeinitiative.org/chap-web.html), [Davidson et al. (2023)](https://www.nature.com/articles/s41562-023-01750-2), [Freelon (2018)](https://www.tandfonline.com/doi/full/10.1080/10584609.2018.1477506?scroll=top&needAccess=true) | 
-| 3    | Sep 17 (We)            | |   | 
-| 3    | Sep 19 (Fr)            | Group project feedback I                   | See [project guidelines](project.html)  | 
-| 4    | Sep 24 (We)            | | Read [BbB chapter 3](https://www.bitbybitbook.com/en/1st-ed/preface/), [WASbook chapter 4](https://bookdown.org/wasbook_feedback/was/CoverageSampling4.html#CoverageSampling4), [Corten et al., (2024)](https://osf.io/x4ku2/download) and [Big data and social science chapter 3.1-3.2](https://textbook.coleridgeinitiative.org/)
-| 4    | Sep 24 (We)            | |   | 
-| 4    | Sep 26 (Fr)            | Group project feedback II                  | See [project guidelines](project.html)  | 
-| 5    | Oct 1 (We)             | | Big data book [chapters 7.1 - 7.5, 7.7.2, 7.9, 11.1 - 11.6](https://textbook.coleridgeinitiative.org), and ([Meteen (2017)](https://lawcat.berkeley.edu/record/1128456/files/fulltext.pdf) or [Business Insider (2024)](https://www.removepaywall.com/search?url=https://www.businessinsider.com/ai-crime-tool-cybercheck-founder-adam-mosher-investigation-2024-8))   | 
-| 5    | Oct 1 (We)             | |   |     
-| 5    | Oct 3 (Fr)             | Deadline group project                      | See [project guidelines](project.html)  |               
-| 6    | Oct 8 (We)             | | Read [BbB chapter 6](https://www.bitbybitbook.com/en/1st-ed/preface/), [Keymolen & Taylor (2023)](https://link.springer.com/chapter/10.1007/978-3-031-19554-9_20) and [Nissenbaum (2004)](http://www.contrib.andrew.cmu.edu/~danupam/RevnissenbaumDTP31.pdf)  | 
-| 6    | Oct 8 (We)             | |   | 
-| 7    | Oct 10 (Fr)            | Group project feedback III                  |   | 
+| 6    | Oct 8 (We)             | [Lab: Ethics](https://colab.research.google.com/github/digitalTraceData/digitalTraceData.github.io/blob/main/materials/lab6/lab6.ipynb) |   |  
+| 6    | Oct 10 (Fr)            | Group project feedback III                  |   | 
 | 7    | Oct 15 (We)            | Lecture: Final recap and Q&A                | Prepare for exam, bring questions  | 
-| 8    | Oct 17 (Fr)            | Group project feedback IV                   | See [project guidelines](project.html)  | 
+| 7    | Oct 17 (Fr)            | Group project feedback IV                   | See [project guidelines](project.html)  | 
 | 8    | Oct 24 (Fr)            | Deadline: Group presentation                | See [project guidelines](project.html)  | 
 | 9    | Oct 30 (We)            | Final recap and Q&A                         |  | 
 | 9    | Oct 31 (Fr)            | Final exam                                  |  | 
