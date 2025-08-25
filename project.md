@@ -1,19 +1,18 @@
 ---
 layout: post
-date: 2024-09-01
+date: 2025-08-20
 author: Javier Garcia-Bernardo and Laura Boeschoten
 title: Group project guidelines
 ---
 
 The group project is a central part of the course. The project is designed to give you hands-on experience with digital trace data, and to apply the knowledge you have gained in the course to a real-world problem. In the practical you will work in groups to collect text data, label it using Natural Language Processing models, discuss the errors and biases that you encounter in the data, and interpret the results in light of the errors.
 
-The slides used in the first lab are available [here](https://surfdrive.surf.nl/files/index.php/s/eC188WPkihnWC2I).
+<!-- The slides used in the first lab are available [here](https://surfdrive.surf.nl/files/index.php/s/eC188WPkihnWC2I). -->
 
 ## Timeslots for the Wednesday feedback moments (see dates and location on MyTimetable)
 
 - Location: DALTON 500 - 5.09 or BOL - 1.152 (please double check on MyTimetable)
-- Come prepared: Bring and hand in (or email in advance) a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members. Please note that the individual grade is not based on the number of tasks, but on the quality of the work done.
-- Ideally bring 1-2 slides with your progress so far and your proposed next steps.
+- Come prepared: Bring some slides with your progress so far and your proposed next steps. Important: each slide should state the name of the group members who contributed to that part of the project. You can add an extra slide at the end with other tasks done by the group members that are not shown in the other slides.
 
 <!--
 
@@ -43,12 +42,13 @@ In the first assignment you will develop a research question, collect text data 
 
 The outcome is a short report (<1,000 words excluding references and potential figures) that you will submit in week 5 (see weekly schedule). You will receive feedback from the lecturers during the feedback sessions (weeks 3 and 4).
 
-Please find the template and the rubric of assignment 1 [here](https://digitaltracedata.github.io/materials/template_assignment1.docx).
+A template and the rubric of the assignment will be made available shortly.
+<!-- Please find the template and the rubric of assignment 1 [here](https://digitaltracedata.github.io/materials/template_assignment1.docx). -->
 
 Steps:
 - Write a group contract: a short signed group agreement stating each person's responsibilities and the consequences of violating the agreement (e.g., getting kicked out of the group). You can find a tte [here](https://docs.google.com/document/d/1VdUVTzQaxsFTXqVFKyJlNi9FZ_WlRKkHP-da_1MlPxI/edit?usp=sharing).
 - Decide on a specific research question and a target dataset. Since you will use the data in the second assignment, make sure that the data is suitable for the analysis you have in mind. In the second assignment, you will label the data using text classification models using a machine learning model. These models classify text, for example detecting the presence of hate speech, political leaning, personality traits or different emotions. We recommend you to use one of the proposed themes: political polarization, hate speech, personality traits or mental health. 
-- Take a quick look at the [PRIDE Questionnaire for approval Single Study](https://ferb.sites.uu.nl/wp-content/uploads/sites/432/2020/12/PRIDE-Questionnaire-for-approval-Single-Study.docx), which helps conduct the project in an ethically responsible manner and in accordance with legislation. You will need to complete it for the second assignment, but it is a good idea to start thinking about the ethical implications of your project from the beginning.
+- Take a quick look at the [PRIDE Questionnaire for approval Single Study](https://ferb.sites.uu.nl/wp-content/uploads/sites/432/2020/12/PRIDE-Questionnaire-for-approval-Single-Study.docx), which helps conduct the project in an ethically responsible manner and in accordance with legislation. You will only need to complete it for the second assignment, but it is a good idea to start thinking about the ethical implications of your project from the beginning.
 - Start collecting the data using the methods explained in the lectures/labs: either data donation/plug-ins (lab 2), or scraping/APIs (lab 3).
 - Attend _Feedback session I_ (week 3) to discuss your progress. Ideally prepare a couple slides with your progress. Bring already some of the collected dtata. Bring and hand in a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members.
 - Finish collecting the data and discuss the errors (representation and measurement) that you anticipate when answering the research question with the proposed data.
@@ -66,7 +66,9 @@ In the second assignment you will further analyze the data collected in the firs
 
 The outcome is a final presentation (10-15 minutes + 5-10 minutes of Q&A) that you will present in week 8 (see weekly schedule). Please submit the final presentation using the upload link on October 24th (before 23:59). Name your slides `groupX_presentation.pdf/pptx`.
 
-Please find the template and the rubric of assignment 2 [here](https://digitaltracedata.github.io/materials/template_assignment2.docx).
+A template and the rubric of the assignment will be made available shortly.
+
+<!-- Please find the template and the rubric of assignment 2 [here](https://digitaltracedata.github.io/materials/template_assignment2.docx). -->
 
 
 You will receive feedback from the lecturers during the feedback sessions (weeks 7 and 8).
@@ -80,6 +82,7 @@ Steps:
 - Reflect on the ethical principles discussed through the course. Is your project aligned with them?
 - Draft the final presentation.
 - Attend _Feedback session IV_ (week 7) to discuss your progress. Ideally prepare a couple slides with your progress. Bring the completed PRIDE questionnaire. Bring and hand in a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members.
+- **Submit the slides and the PRIDE form by October 22nd** through [this link](https://surfdrive.surf.nl/files/index.php/s/HgeNKHK8K9JS4jW). Please name your file groupX_PRIDE.pdf, groupX_presentation.pdf. 
 - Present the group project in week 8 (see weekly schedule)
 
 Grading:

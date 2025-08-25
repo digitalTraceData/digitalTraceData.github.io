@@ -44,7 +44,7 @@ The use of generative AI must be clearly indicated in the assignment, clearly id
 
 
 ### Who to ask what
-* General questions about the course: Email course coordinator (Javier)
+* General questions about the course: Email course coordinator (Javier (before October 1st) or Laura (after October 1st))
 * Questions about the lectures: Email lecturer (Laura or Javier)
 * Questions about the practicals or group project (including grading): Email Thijs
 
