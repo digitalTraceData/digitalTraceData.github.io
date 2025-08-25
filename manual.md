@@ -93,3 +93,6 @@ During the course, we will use the following readings:
 * [Meteen review of `O'neil, C. (2017). Weapons of math destruction: How big data increases inequality and threatens democracy. Crown.`](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lawcat.berkeley.edu/record/1128456/files/fulltext.pdf&ved=2ahUKEwjHuJernYmIAxVZ2wIHHfXgANsQFnoECBQQAQ&usg=AOvVaw2p-VOqfssuIUO0zwZ0Zw1f)
 * [Business Insider (2024). Prosecutors used an AI tool to send a man to prison for life. Now the person who created it is under investigation.](https://www.removepaywall.com/search?url=https://www.businessinsider.com/ai-crime-tool-cybercheck-founder-adam-mosher-investigation-2024-8)
 * [Nissenbaum, H. (2004). Privacy as contextual integrity. Wash. L. Rev., 79, 119.](http://www.contrib.andrew.cmu.edu/~danupam/RevnissenbaumDTP31.pdf)
+
+
+

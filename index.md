@@ -11,8 +11,8 @@ This website contains all information of the course _Introduction to digital tra
 * **Instructors**: Javier Garcia-Bernardo, Laura Boeschoten, Thijs Carrière
 * **Lecture and rooms**: [BOL - 2.059](https://students.uu.nl/bolognalaan-101). Check [MyTimetable](https://mytimetable.uu.nl/schedule/) for the most up-to-date information. 
 * **Course manual**: [Here](./manual.html).
-* **Group project guidelines**: [Here](./project.html).
-* **Link to upload assignments**: [Labs](https://surfdrive.surf.nl/files/index.php/s/rUTjwWP2uPiRrBy), [Project](https://surfdrive.surf.nl/files/index.php/s/HgeNKHK8K9JS4jW).
+<!-- * **Group project guidelines**: [Here](./project.html). -->
+<!-- * **Link to upload assignments**: [Labs](https://surfdrive.surf.nl/files/index.php/s/rUTjwWP2uPiRrBy), [Project](https://surfdrive.surf.nl/files/index.php/s/HgeNKHK8K9JS4jW). -->
 
 
 
@@ -39,10 +39,9 @@ Please note that the links to the lectures and labs may be updated until the Mon
 | 6    | Oct 8 (We)             | [Lecture: Ethics](https://github.com/digitalTraceData/digitalTraceData.github.io/raw/main/materials/lecture6_dtd.pdf)                            | Read [BbB chapter 6](https://www.bitbybitbook.com/en/1st-ed/preface/), [Keymolen & Taylor (2023)](https://link.springer.com/chapter/10.1007/978-3-031-19554-9_20) and [Nissenbaum (2004)](http://www.contrib.andrew.cmu.edu/~danupam/RevnissenbaumDTP31.pdf)  | 
 | 6    | Oct 8 (We)             | [Lab: Ethics](https://colab.research.google.com/github/digitalTraceData/digitalTraceData.github.io/blob/main/materials/lab6/lab6.ipynb) |   |  
 | 6    | Oct 10 (Fr)            | Group project feedback III                  |   | 
-| 7    | Oct 15 (We)            | Lecture: Final recap and Q&A                | Prepare for exam, bring questions  | 
 | 7    | Oct 17 (Fr)            | Group project feedback IV                   | See [project guidelines](project.html)  | 
 | 8    | Oct 24 (Fr)            | Deadline: Group presentation                | See [project guidelines](project.html)  | 
-| 9    | Oct 30 (We)            | Final recap and Q&A                         |  | 
+| 9    | Oct 29 (We)            | Lecture: Final recap and Q&A                | Prepare for exam, bring questions  | 
 | 9    | Oct 31 (Fr)            | Final exam                                  |  | 
 | x    | Nov 14 (Fr)            | Exam inspection                             |  | 
 | x    | Nov 28 (Fr)            | Resit exam                                  |  | 
