@@ -15,17 +15,20 @@ The slides used in the first lab are available [here](https://surfdrive.surf.nl/
 - Come prepared: Bring and hand in (or email in advance) a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members. Please note that the individual grade is not based on the number of tasks, but on the quality of the work done.
 - Ideally bring 1-2 slides with your progress so far and your proposed next steps.
 
+<!--
 
 | Group   | Timeslot            | Instructors             |
 |:--------|:--------------------|:------------------------|
-<!-- | Uncia   | 13:15-13:30         | Thijs + Javier          |
+| Uncia   | 13:15-13:30         | Thijs + Javier          |
 | Tigris  | 13:35-13:50         | Thijs + Javier          |
 | Lynx    | 13:55-14:10         | Thijs + Javier          |
 | Onca    | 14:15-14:30         | Thijs + Javier          |
 | Pardus  | 14:45-15:00         | Thijs + Laura           |
 | Cheetah | 15:05-15:20         | Thijs + Laura           |
 | Caracal | 15:25-15:40         | Thijs + Laura           |
-| Leo     | 15:45-16:00         | Thijs + Laura           | -->
+| Leo     | 15:45-16:00         | Thijs + Laura           | 
+
+-->
 
 
 ## Practical information
