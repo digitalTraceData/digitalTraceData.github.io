@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-08-19
-author: Javier Garcia-Bernardo and Laura Boeschoten
+author: Javier Garcia-Bernardo, Laura Boeschoten, and Thijs Carrière
 title: Course manual 
 ---
 
@@ -31,16 +31,16 @@ To pass the course you need:
 
 Resit: If the final grade is between 4.0 and 5.4, students may resit the exam. The resit will replace the grade from the exam. **To have the right to the resit you need to attend over 75% of the practicals (i.e., you can only miss one).** <!-- and hand-in your answers to the practical (in a PDF file) the Monday after each practical before 17:00 through [this link](https://surfdrive.surf.nl/files/index.php/s/rUTjwWP2uPiRrBy). Make sure to name your file "labX_lastname.pdf".** -->
 
-### Fraud, plagiarism and use of generative AI
+### Fraud and plagiarism 
 Plagiarism and fraud are serious academic offenses. Plagiarism is defined as the use of another person's work without proper acknowledgment. This includes copying and pasting text from generative AI, the internet, from books, or from other students. If you use text from another source, you must put it in quotation marks and provide a citation. If you do not, you are committing plagiarism. Fraud is defined as the use of dishonest methods to gain an unfair advantage. This includes copying another student's work, submitting work that is not your own, or submitting the same work for two different courses. If you commit fraud or plagiarism, you will fail the course. If you are not sure what constitutes plagiarism or fraud, please see the (UU Fraud and plagiarism policy)[https://students.uu.nl/en/practical-information/policies-and-procedures/fraud-and-plagiarism].
 
-
+### Use of generative AI
 The use of generative AI (e.g., chatGPT) in the group assignment is allowed __only__ for the following cases:
-- Creating code to download, analyze data, or to explain code
-- Labeling data
-- Copy-editing text (i.e., making the text more readable, but not changing the content)
+- Creating code to download and analyze data, or to explain code.
+- Labeling data.
+- Copy-editing text (i.e., making the text more readable, but not changing the content).
 
-The use of generative AI must be clearly indicated in the assignment, clearly identifying the specific model used and for what purpose. The use of generative AI for other purposes is not allowed.
+The use of generative AI must be clearly indicated in the assignment, including a link to the full conversation with the tool (either using the `Share` button in the top-right corner, or exporting the conversation to an online document). 
 
 
 ### Who to ask what
@@ -62,7 +62,7 @@ At the end of the course:
 * Students are able to present on research findings and insights to specialist and non-specialist audiences clearly and unambiguously in English
  
 
-## Required readings (not complete)
+## Required readings (see also weekly schedule)
 During the course, we will use the following readings:
 ### Books: 
 * [Bit by Bit: Social Research in the Digital Age](https://www.bitbybitbook.com/en/1st-ed/preface/) by Matthew J. Salganik
