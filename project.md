@@ -42,8 +42,7 @@ In the first assignment you will develop a research question, collect text data 
 
 The outcome is a short report (<1,000 words excluding references and potential figures) that you will submit in week 5 (see weekly schedule). You will receive feedback from the lecturers during the feedback sessions (weeks 3 and 4).
 
-A template and the rubric of the assignment will be made available shortly.
-<!-- Please find the template and the rubric of assignment 1 [here](https://digitaltracedata.github.io/materials/template_assignment1.docx). -->
+Please find the template and the rubric of assignment 1 [here](https://digitaltracedata.github.io/materials/template_assignment1.docx).
 
 Steps:
 - During the final 20 minutes of the first lab meeting, discuss as a group how you envision working together. Discuss each person’s responsibilities and make agreements on how to collaborate. You can use the group contract for this, which can be found [here](https://docs.google.com/document/d/1VdUVTzQaxsFTXqVFKyJlNi9FZ_WlRKkHP-da_1MlPxI/edit?usp=sharing). 
@@ -52,7 +51,7 @@ Steps:
   -  Do supporters of Donald Trump spread more hate speech on social media in the month after the July 13th assassination attempt compared to the month before the attempt?
   -  What attitudes towards the actions of radical climate activists are visible on Reddit?
 - Take a quick look at the [PRIDE Questionnaire for approval Single Study](https://ferb.sites.uu.nl/wp-content/uploads/sites/432/2020/12/PRIDE-Questionnaire-for-approval-Single-Study.docx), which helps conduct the project in an ethically responsible manner and in accordance with legislation. You will only need to complete it for the second assignment, but it is a good idea to start thinking about the ethical implications of your project from the beginning.
-- Start collecting the data using the methods explained in the lectures/labs: either data donation/plug-ins (lab 2), or scraping/APIs (lab 3).
+- Start collecting the data using the methods explained in the lectures/labs: either data donation/plug-ins (lab 2), or scraping/APIs (lab 3). In the unlikely case that you are using participants, you will need to create an informed consent form. For that, talk with your project supervisor (either Thijs or Laura).
 - Attend _Feedback session I_ (week 3) to discuss your progress. Prepare a few (<5) slides with your progress which indicates on what topics each group member worked (each slide should contain the contributors). Send your prepared slides to your project supervisor (either Thijs or Laura) **before** the meeting. Bring already some of the collected data. 
 - Finish collecting the data and discuss the errors (representation and measurement) that you anticipate when answering the research question with the proposed data.
 - Attend _Feedback session II_ (week 4) to discuss your progress. Prepare a few slides with your progress and again send these to the teacher you have the feedback session with prior to this meeting. 
@@ -69,9 +68,7 @@ In the second assignment you will further analyze the data collected in the firs
 
 The outcome is a final presentation (10-15 minutes + 5-10 minutes of Q&A) that you will present in week 8 (see weekly schedule). Please submit the final presentation using the upload link before 23:59 in the day of the deadline (see weekly schedule). Name your slides `groupX_presentation.pdf/pptx`.
 
-A template and the rubric of the assignment will be made available shortly.
-
-<!-- Please find the template and the rubric of assignment 2 [here](https://digitaltracedata.github.io/materials/template_assignment2.docx). -->
+Please find the template and the rubric of assignment 2 [here](https://digitaltracedata.github.io/materials/template_assignment2.docx).
 
 
 You will receive feedback from the lecturers during the feedback sessions (weeks 6 and 7).
