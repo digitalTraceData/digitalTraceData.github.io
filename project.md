@@ -7,7 +7,7 @@ title: Group project guidelines
 
 The group project is a central part of the course. The project is designed to give you hands-on experience with digital trace data, and to apply the knowledge you have gained in the course to a real-world problem. In the practical you will work in groups to collect text data, label it using Natural Language Processing models, discuss the errors and biases that you encounter in the data, and interpret the results in light of the errors.
 
-<!-- The slides used in the first lab are available [here](https://surfdrive.surf.nl/files/index.php/s/eC188WPkihnWC2I). -->
+The slides used in the first lab are available [here](https://digitaltracedata.github.io/materials/Lab_Project_info.pdf).
 
 ## Timeslots for the feedback moments (see dates and location on MyTimetable)
 
