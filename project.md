@@ -14,20 +14,12 @@ The slides used in the first lab are available [here](https://digitaltracedata.g
 - Location: DALTON 500 - 5.09 or BOL - 1.152 (please double check on MyTimetable)
 - Come prepared: As a group, prepare and bring some slides with your progress so far and your proposed next steps. Important: each slide should state the name of the group members who contributed to that part of the project. You can add an extra slide at the end with other tasks done by the group members that are not shown in the other slides. Send your slides to your feedback moment’s teacher **in advance**.
 
-<!--
+<picture>
+  <source srcset="/assets/img/schedule_groups.png" type="image/png">
+  <img src="/assets/img/schedule_groups.png" alt="Timeslot schedule for feedback moments" style="display:block; margin: 1rem auto; max-width: 900px; width: 100%; height: auto;" />
+</picture>
 
-| Group   | Timeslot            | Instructors             |
-|:--------|:--------------------|:------------------------|
-| Uncia   | 13:15-13:30         | Thijs + Javier          |
-| Tigris  | 13:35-13:50         | Thijs + Javier          |
-| Lynx    | 13:55-14:10         | Thijs + Javier          |
-| Onca    | 14:15-14:30         | Thijs + Javier          |
-| Pardus  | 14:45-15:00         | Thijs + Laura           |
-| Cheetah | 15:05-15:20         | Thijs + Laura           |
-| Caracal | 15:25-15:40         | Thijs + Laura           |
-| Leo     | 15:45-16:00         | Thijs + Laura           | 
 
--->
 
 
 ## Practical information
