@@ -12,7 +12,7 @@ The slides used in the first lab are available [here](https://digitaltracedata.g
 ## Timeslots for the feedback moments (see dates and location on MyTimetable)
 
 - Location: DALTON 500 - 5.09 or BOL - 1.152 (please double check on MyTimetable)
-- Come prepared: As a group, prepare and bring some slides with your progress so far and your proposed next steps. Important: each slide should state the name of the group members who contributed to that part of the project. You can add an extra slide at the end with other tasks done by the group members that are not shown in the other slides. Send your slides to your feedback moment’s teacher **in advance**.
+- Come prepared: As a group, prepare and bring some slides with your progress so far and your proposed next steps. Important: each slide should state the name of the group members who contributed to that part of the project. You can add an extra slide at the end with other tasks done by the group members that are not shown in the other slides. Send your slides to your feedback moment’s teacher **in advance**---either to Thijs or Laura ({t.c.carriere, l.boeschoten}@uu.nl).
 
 <picture>
   <source srcset="/assets/img/schedule_groups.png" type="image/png">
