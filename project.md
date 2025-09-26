@@ -66,12 +66,13 @@ Please find the template and the rubric of assignment 2 [here](https://digitaltr
 You will receive feedback from the lecturers during the feedback sessions (weeks 6 and 7).
 
 Steps:
-- Run a text classification model of your choice from [Hugging Face](https://huggingface.co/models) on the data collected in the first assignment. These models classify text, for example detecting the presence of hate speech, political leaning, personality traits or different emotions. The model should be appropriate to answer your research question. If you would like to use LLMs (e.g., GPT-5) for labeling, you can look at the materials [here](https://sodascience.github.io/workshop_llm_data_collection/). Please be aware that using LLMs costs money (for a typical project in the course, usually less than one euro).
-- Reflect on the biases you expect during the labeling process, and the origin of those biases.
-- Attend _Feedback session III_ (week 6) to discuss your progress. Prepare a few of slides with your progress and send these to your teacher prior to the meeting. Make sure the slides indicate who worked on what topics. 
-- Reflect on how you would expand the study to tackle these issues. What type of data would you need to collect?
 - Complete the [PRIDE Questionnaire for approval Single Study](https://ferb.sites.uu.nl/wp-content/uploads/sites/432/2025/05/PRIDE-Questionnaire-for-approval-Single-Study.docx), which helps conduct the project in an ethically responsible manner and in accordance with legislation. 
 - Reflect on the ethical principles discussed through the course. Is your project aligned with them?
+- Select a text classification model of your choice from [Hugging Face](https://huggingface.co/models). These models classify text, for example detecting the presence of hate speech, political leaning, personality traits or different emotions. The model should be appropriate to answer your research question. If you would like to use LLMs (e.g., GPT-5) for labeling, you can look at the materials [here](https://sodascience.github.io/workshop_llm_data_collection/). Please be aware that using LLMs APIs cost money (for a typical project in the course, usually less than one euro).
+- Attend _Feedback session III_ (week 6) to discuss your progress. Prepare a few of slides with your progress and send these to your teacher prior to the meeting. Make sure the slides indicate who worked on what topics.
+- Run a text classification model of your choice from [Hugging Face](https://huggingface.co/models) on the data collected in the first assignment.
+- Reflect on the biases you expect during the labeling process, and the origin of those biases.
+- Reflect on how you would expand the study to tackle measurement and representation issues. What type of data would you need to collect?
 - Draft the final presentation.
 - Attend _Feedback session IV_ (week 7) to discuss your progress. Prepare a few slides with your progress. Bring the completed PRIDE questionnaire. Bring and hand in a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members.
 - **Submit the slides and the PRIDE form before the deadline (see weekly schedule)** through the link on the home page. Please name your file groupX_PRIDE.pdf, groupX_presentation.pdf. 
