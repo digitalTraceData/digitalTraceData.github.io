@@ -75,7 +75,7 @@ Steps:
 - Draft the final presentation.
 - Attend _Feedback session IV_ (week 7) to discuss your progress. Prepare a few slides with your progress. Bring the completed PRIDE questionnaire. Bring and hand in a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members.
 - **Submit the slides and the PRIDE form before the deadline (see weekly schedule)** through the link on the home page. Please name your file groupX_PRIDE.pdf, groupX_presentation.pdf. 
-- Present the group project in week 8 (see weekly schedule)
+- Present the group project in week 8 (see weekly schedule). **Groups Cheetah, Pardus, Lynx and Tigris are present from 11:00 - 13:00. Groups Onca, Uncia, Leo, Puma and Caracal are present from 13:00 - 15:00. We expect all groups to actively engage with questions and discussion.**
 - During the presentations, each group will ask 1-2 discussion questions to another group. A schedule which group is discussant for what presentation will be made available prior to the presentations and will be posted below.
 
 Grading:
