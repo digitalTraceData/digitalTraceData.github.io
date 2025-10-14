@@ -58,7 +58,7 @@ Grading:
 ## Assignment 2: Errors in data labeling and moving past errors
 In the second assignment you will further analyze the data collected in the first assignment to answer the RQ. For this you will use a Natural Language Processing model of your choice to label the data, which you will learn on week 5. These type of models can predict things from text. For example, they can predict if the text contains hate speech, polarized content, negative language, or specific personality traits. You will discuss the biases that you encounter in the labeling process, and how you will move past these errors in data collection and data labeling.
 
-The outcome is a final presentation (10-15 minutes + 5-10 minutes of Q&A) that you will present in week 8 (see weekly schedule). Please submit the final presentation using the upload link before 23:59 in the day of the deadline (see weekly schedule). Name your slides `groupX_presentation.pdf/pptx`.
+The outcome is a final presentation (12 minutes + 5 minutes of Q&A) that you will present in week 8 (see weekly schedule). Please submit the final presentation using the upload link before 23:59 in the day of the deadline (see weekly schedule). Name your slides `groupX_presentation.pdf/pptx`.
 
 Please find the template and the rubric of assignment 2 [here](https://digitaltracedata.github.io/materials/template_assignment2.docx).
 
@@ -76,7 +76,7 @@ Steps:
 - Attend _Feedback session IV_ (week 7) to discuss your progress. Prepare a few slides with your progress. Bring the completed PRIDE questionnaire. Bring and hand in a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members.
 - **Submit the slides and the PRIDE form before the deadline (see weekly schedule)** through the link on the home page. Please name your file groupX_PRIDE.pdf, groupX_presentation.pdf. 
 - Present the group project in week 8 (see weekly schedule). **Groups Cheetah, Pardus, Lynx and Tigris are present from 11:00 - 13:00. Groups Onca, Uncia, Leo, Puma and Caracal are present from 13:00 - 15:00. We expect all groups to actively engage with questions and discussion.**
-- During the presentations, each group will ask 1-2 discussion questions to another group. A schedule which group is discussant for what presentation will be made available prior to the presentations and will be posted below.
+- During the presentations, we require all other groups to active participate in the discussion and ask questions. 
 
 Grading:
 - Process: 30% (work, communication and preparation for feedback sessions). This is an individual grade.
