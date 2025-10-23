@@ -73,7 +73,7 @@ Steps:
 - Complete the [PRIDE Questionnaire for approval Single Study](https://ferb.sites.uu.nl/wp-content/uploads/sites/432/2025/05/PRIDE-Questionnaire-for-approval-Single-Study.docx), which helps conduct the project in an ethically responsible manner and in accordance with legislation. 
 - Reflect on the ethical principles discussed through the course. Is your project aligned with them?
 - Draft the final presentation.
-- Attend _Feedback session IV_ (week 7) to discuss your progress. Prepare a few slides with your progress. Bring the completed PRIDE questionnaire. Bring and hand in a list of 10+ concrete tasks and who completed those tasks. Make sure that the list is signed by all group members.
+- Attend _Feedback session IV_ (week 7) to discuss your progress. Prepare a few slides with your progress. Bring the completed PRIDE questionnaire.
 - **Submit the slides and the PRIDE form before the deadline (see weekly schedule)** through the link on the home page. Please name your file groupX_PRIDE.pdf, groupX_presentation.pdf. 
 - Present the group project in week 8 (see weekly schedule). **Groups Cheetah, Pardus, Lynx and Tigris are present from 11:00 - 13:00. Groups Onca, Uncia, Leo, Puma and Caracal are present from 13:00 - 15:00. We expect all groups to actively engage with questions and discussion.**
 - During the presentations, we require all other groups to active participate in the discussion and ask questions. 
