@@ -42,7 +42,7 @@ Please note that the links to the lectures and labs may be updated until the Mon
 | 7    | Oct 17 (Fr)            | Group project feedback IV                   | See [project guidelines](project.html) | 
 | 8    | Oct 23 (Thu)           | Deadline to upload slides for group presentation  | See [project guidelines](project.html)  | 
 | 8    | Oct 24 (Fr)            | Group presentation                          | See [project guidelines](project.html)  | 
-| 9    | Oct 29 (We)            | Lecture: Final recap and Q&A                | Prepare for exam, bring questions  | 
+| 9    | Oct 29 (We)            | [Lecture: Q&A](https://github.com/digitalTraceData/digitalTraceData.github.io/raw/main/materials/lecture_recap.pdf)                                 | Prepare for exam, bring questions  | 
 | 9    | Oct 31 (Fr)            | Final exam                                  |  | 
 | x    | Nov 14 (Fr)            | Exam inspection                             |  | 
 | x    | Nov 28 (Fr)            | Resit exam                                  |  | 
