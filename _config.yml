@@ -1,12 +1,14 @@
 title: Digital Trace Data
 logo: /assets/img/logo.png
-description: Introduction to digital trace data`:` Quality, ethics, and analysis. Utrecht University
+description: "Introduction to digital trace data: Quality, ethics, and analysis. Utrecht University"
 show_downloads: false
 theme: jekyll-theme-minimal
 
 exclude:
   - LICENSE
   - README.md
+  - index.html
+  - materials
   - run.sh
 
 plugins:
