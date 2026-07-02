@@ -3,6 +3,7 @@ logo: /assets/img/logo.png
 description: "Introduction to digital trace data: Quality, ethics, and analysis. Utrecht University"
 show_downloads: false
 theme: jekyll-theme-minimal
+repository: digitalTraceData/digitalTraceData.github.io
 
 exclude:
   - LICENSE
