@@ -10,6 +10,10 @@ exclude:
   - index.html
   - materials
   - run.sh
+  - vendor
+  - .bundle
+  - node_modules
+  - .github
 
 plugins:
   - jekyll-seo-tag
