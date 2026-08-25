@@ -5,16 +5,11 @@ show_downloads: false
 theme: jekyll-theme-minimal
 repository: digitalTraceData/digitalTraceData.github.io
 
-# Publish only the lab 1 data download from the otherwise excluded materials.
-include:
-  - ddp_twitter_soda.zip
-
 exclude:
   - LICENSE
   - README.md
   - index.html
-  - "materials/*.*"
-  - "materials/**/*"
+  - materials
   - run.sh
   - vendor
   - .bundle
