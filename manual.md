@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-08-19
+date: 2026-08-25
 author: Javier Garcia-Bernardo, Laura Boeschoten, and Thijs Carrière
 title: Course manual 
 ---
@@ -35,6 +35,10 @@ Resit: If the final grade is between 4.0 and 5.4, students may resit the exam. T
 Plagiarism and fraud are serious academic offenses. Plagiarism is defined as the use of another person's work without proper acknowledgment. This includes copying and pasting text from generative AI, the internet, from books, or from other students. If you use text from another source, you must put it in quotation marks and provide a citation. If you do not, you are committing plagiarism. Fraud is defined as the use of dishonest methods to gain an unfair advantage. This includes copying another student's work, submitting work that is not your own, or submitting the same work for two different courses. If you commit fraud or plagiarism, you will fail the course. If you are not sure what constitutes plagiarism or fraud, please see the (UU Fraud and plagiarism policy)[https://students.uu.nl/en/practical-information/policies-and-procedures/fraud-and-plagiarism].
 
 ### Use of generative AI (Scenario B of the UU GenAI index)
+Research suggests that generative AI can help students produce better coursework, but this does not always mean they are learning more. Students may perform worse in exams or other tasks where they cannot use AI, especially if they rely on AI to do the thinking for them.
+
+However, AI can support learning when it is used to explain ideas, give feedback, or help students practise. **The key is to use AI as a learning tool, not as a replacement for your own thinking.**
+
 You may use GenAI to prepare the work you hand in. What are considered preparatory tasks for this assignment are below. You may NOT use genAI for the assignment that you hand in, with the exception of copy-editing. You may use AI tools to assist you in generating code that results in reproducible data sets. 
 
 The use of generative AI (e.g., chatGPT) in the group assignment is allowed __only__ for the following cases:
@@ -56,7 +60,7 @@ If you do not know how to prevent the use of the content for further training of
 
 
 ### Who to ask what
-* General questions about the course: Email course coordinator (Javier (before October 1st) or Laura (after October 1st))
+* General questions about the course: Email course coordinator (Javier)
 * Questions about the lectures: Email lecturer (Laura or Javier)
 * Questions about the practicals or group project (including grading): Email Thijs
 

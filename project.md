@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-08-20
+date: 2026-08-25
 author: Javier Garcia-Bernardo, Laura Boeschoten, and Thijs Carrière
 title: Group project guidelines
 ---
@@ -15,7 +15,7 @@ Feedback on the group project will take place during the regular workshop sessio
 
 During peer review, groups will present their progress to another group. Each peer-review round will take about 30 minutes. Come prepared to explain your research question, data collection strategy, expected representation and measurement errors, and the main decisions you still need feedback on.
 
-Before the session, each group should prepare 2-3 specific questions they want feedback on. If there are problems with collaboration or task division, come early and talk to the teacher before the peer-review round starts.
+Before the session, each group should prepare 2-3 specific questions they want feedback on. Prepare a few (fewer than 5) slides showing your progress and indicating the topics each group member worked on; every slide should list its contributors. If there are problems with collaboration or task division, come early and talk to the teacher before the peer-review round starts.
 
 After receiving feedback, each group will spend 15 minutes documenting:
 - what feedback they received;
@@ -23,7 +23,7 @@ After receiving feedback, each group will spend 15 minutes documenting:
 - what they will change or keep based on that feedback;
 - who will take responsibility for the next tasks.
 
-The rest of the workshop is project work. The teacher will circulate, ask questions, and help groups sharpen their research question, data collection plan, and error framework. When presenting to the teacher or another group, use the big screen where possible and sit together so the feedback can be discussed directly.
+The rest of the workshop is working on the practical. The teacher will circulate and ask questions about the group project, helping groups sharpen their research question, data collection plan, and error framework. When presenting to the teacher or another group, use the big screen where possible and sit together so the feedback can be discussed directly.
 
 
 ## Practical information
@@ -51,16 +51,16 @@ Steps:
   -  Do supporters of Donald Trump spread more hate speech on social media in the month after the July 13th assassination attempt compared to the month before the attempt?
   -  What attitudes towards the actions of radical climate activists are visible on Reddit?
 - Take a quick look at the [PRIDE Questionnaire for approval Single Study](https://ferb.sites.uu.nl/wp-content/uploads/sites/432/2025/05/PRIDE-Questionnaire-for-approval-Single-Study.docx), which helps conduct the project in an ethically responsible manner and in accordance with legislation. You will only need to complete it for the second assignment, but it is a good idea to start thinking about the ethical implications of your project from the beginning.
-- Start collecting the data using the methods explained in the lectures/labs: either data donation/plug-ins (lab 2), or scraping/APIs (lab 3). In the unlikely case that you are using participants, you will need to create an informed consent form. For that, talk with your project supervisor (either Thijs or Laura).
+- Start collecting the data using the methods explained in the lectures/labs: either data donation/plug-ins (lab 2), or scraping/APIs (lab 3). In the unlikely case that you are using participants, you will need to create an informed consent form. For that, talk with your project supervisor (Thijs).
 - Participate in the first peer-review workshop (week 3) to discuss your progress. Prepare a few (<5) slides with your progress which indicates on what topics each group member worked (each slide should contain the contributors). Bring already some of the collected data and 2-3 questions you want feedback on. The teacher may ask any group member the checkpoint questions below, and we expect everyone in the group to be able to answer them:
   - What broader phenomenon or target population are you studying, and what observed population or trace data do you actually have?
   - Why is this digital trace data a plausible proxy for your research question, and what does it fail to capture because of the platform, tool, or data source?
   - What exact collection route are you using (scraping, API, data donation, plug-in, or another method), and what are your inclusion rules, unit of analysis, and first signs of missing or distorted data?
 - Finish collecting the data and discuss the errors (representation and measurement) that you anticipate when answering the research question with the proposed data.
 - Participate in the second peer-review workshop (week 4) to discuss your progress. Prepare a few slides with your progress and 2-3 questions you want feedback on. The teacher may ask any group member the checkpoint questions below, and we expect everyone in the group to be able to answer them:
-  - Can you draw the path from target phenomenon to final dataset and identify where representation errors enter, such as coverage, sampling or search terms, non-participation, deleted content, moderation, ranking, or unavailable data?
-  - For each key variable, what concept do you want to measure, what proxy do you actually observe, and what measurement errors may enter through platform design, metadata limits, scraping or API extraction, preprocessing, bots, duplicates, or language choices?
-  - Which two or three errors most threaten your answer to the research question, in what direction might they bias your findings, and what validation, comparison, or sensitivity check can you still do?
+  - **Representation:** Draw the path: **target population → data-source population → accessible or recruited units → scraped or donated data → analytic dataset**. At each step, who or what might be missing or overrepresented?
+  - **Measurement:** For each key concept, draw the path: **concept → observable behaviour or content → recorded digital trace → scraped or donated data → processed variable**. At each step, what could distort the measurement?
+  - **Evaluation:** Which errors most threaten your conclusions, and how could you assess or reduce them?
 - Finish assessing the errors in the data, ideally by comparing the data with other sources of information (e.g. representative surveys).
 - Submit a short report (<1,000 words excluding references and potential figures) in week 5 (see weekly schedule). The link for handing in the report can be found on the course’s homepage. 
 
@@ -84,8 +84,8 @@ Steps:
 - Run a text classification model of your choice from [Hugging Face](https://huggingface.co/models) on the data collected in the first assignment. These models classify text, for example detecting the presence of hate speech, political leaning, personality traits or different emotions. The model should be appropriate to answer your research question. If you would like to use LLMs (e.g., GPT-5) for labeling, you can look at the materials [here](https://sodascience.github.io/workshop_llm_data_collection/). Please be aware that using LLMs costs money (for a typical project in the course, usually less than one euro).
 - Reflect on the biases you expect during the labeling process, and the origin of those biases.
 - Participate in the third peer-review workshop (week 6) to discuss your progress. Prepare a few slides with your progress, make sure the slides indicate who worked on what topics, and bring 2-3 questions you want feedback on. The teacher may ask any group member the checkpoint questions below, and we expect everyone in the group to be able to answer them:
-  - What label or construct is your model trying to detect, what data was the model trained on, and how well does that match your own data, language, platform, and research question?
-  - How will you check model quality and bias, for example with manual coding, false positives and false negatives, subgroup or platform differences, class imbalance, sarcasm, multimodal content, or preprocessing choices?
+  - What construct is your model trying to detect, what data was the model trained on, and how well does that match your own data, language, platform, and research question?
+  - How will you check model quality and bias?
   - What are the main ethical and PRIDE issues in your project (consent, legal basis, sensitive data, vulnerable groups, re-identification, contextual integrity, data minimization, or possible harm), and what concrete decisions reduce those risks?
 - Reflect on how you would expand the study to tackle these issues. What type of data would you need to collect?
 - Complete the [PRIDE Questionnaire for approval Single Study](https://ferb.sites.uu.nl/wp-content/uploads/sites/432/2025/05/PRIDE-Questionnaire-for-approval-Single-Study.docx), which helps conduct the project in an ethically responsible manner and in accordance with legislation. 
