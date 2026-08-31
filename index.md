@@ -13,7 +13,7 @@ _Introduction to Digital Trace Data_ gives students a hands-on introduction to d
 * **Schedule and rooms**: The schedule below is provisional and not yet confirmed. Rooms: [RUPPERT - 033](https://students.uu.nl/marinus-ruppertgebouw), [BOL - 2.059](https://students.uu.nl/bolognalaan-101), and [RUPPERT - 002](https://students.uu.nl/marinus-ruppertgebouw). Check [MyTimetable](https://mytimetable.uu.nl/schedule/) for confirmed rooms, times, and any last-minute changes.
 * **Course manual**: [Course manual](./manual.html).
 * **Group project guidelines**: [Group project guidelines](./project.html).
-* **Assignment upload link**: To be announced before the first deadline.
+* **Assignment upload link**: [Upload assignments](https://surfdrive.surf.nl/s/saHC7g5M7S3eWgB). The password is shared during the first lab.
 
 ## Weekly schedule
 
