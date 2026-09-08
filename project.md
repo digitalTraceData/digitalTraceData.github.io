@@ -23,13 +23,18 @@ After receiving feedback, each group will spend 15 minutes documenting:
 - what they will change or keep based on that feedback;
 - who will take responsibility for the next tasks.
 
-The rest of the workshop is working on the practical. The teacher will circulate and ask questions about the group project, helping groups sharpen their research question, data collection plan, and error framework. When presenting to the teacher or another group, use the big screen where possible and sit together so the feedback can be discussed directly.
+Keep track of that document. We will ask for it in case of disagreements about the individual grade or in case of disagreements about contribution or task distribution.
+
+The rest of the workshop is working on the practical. The teacher will circulate and ask questions about the group project, helping groups sharpen their research question, data collection plan, and error framework. 
 
 
 ## Practical information
 * The project consists of two assignments, each worth 30% of the final grade. 
 * The groups will be formed in the first practical. If you miss the first practical, you will not be able to participate in the group project and will fail the course.
-* Progress will be tracked through peer review and teacher check-ins during the regular workshop sessions. Attendance and active participation in these feedback moments are mandatory.
+* Progress will be tracked through peer review and teacher check-ins during the regular workshop sessions. Attendance and active participation in all four feedback moments are mandatory.
+* The same course-wide individual process grade is used for both assignments. Each feedback session in weeks 3, 4, 6 and 7 is worth 20 points. Students receive 20 points if they attend and participate at the expected level, and 0 points if they are absent, do not participate or participate very little. Students who consistently do more than expected can receive 20 extra points (all or nothing), based on their answers to the practical instructors and the task distribution and contributors indicated in the progress slides. 
+* Disagreements about contribution or task distribution must be brought up as soon as they arise, no later than the next feedback session and before the relevant submission.
+* After Assignment 1, groups first receive the group grade for the report. The final grades for both assignments are determined after the fourth feedback session, when the course-wide individual process grade is complete.
 * Upload the written report and the presentation through the link on the [home page](./). Please name your file groupX_report.pdf, groupX_presentation.pdf.
 
 
@@ -65,7 +70,7 @@ Steps:
 - Submit a short report (<1,000 words excluding references and potential figures) in week 5 (see weekly schedule). The link for handing in the report can be found on the course’s homepage. 
 
 Grading:
-- Process: 30% (work, communication and preparation for feedback moments). This is an individual grade.
+- Process: 30%. This is the course-wide individual process grade described above.
 - Report: 70% This is a group grade.
 - Error framework: Students should clearly separate representation and measurement errors, explain each step in the data collection process where these errors may enter, and apply the total error framework to their specific method rather than using it generically.
 
@@ -100,5 +105,5 @@ Steps:
 - During the presentations, we require all other groups to active participate in the discussion and ask questions. 
 
 Grading:
-- Process: 30% (work, communication and preparation for feedback moments). This is an individual grade.
+- Process: 30%. This is the course-wide individual process grade described above.
 - Presentation: 70%. This is a group grade.
