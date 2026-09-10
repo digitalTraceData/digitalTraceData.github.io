@@ -67,7 +67,7 @@ Steps:
   - **Measurement:** For each key concept, draw the path: **concept → observable behaviour or content → recorded digital trace → scraped or donated data → processed variable**. At each step, what could distort the measurement?
   - **Evaluation:** Which errors most threaten your conclusions, and how could you assess or reduce them?
 - Finish assessing the errors in the data, ideally by comparing the data with other sources of information (e.g. representative surveys).
-- Submit a short report (<1,000 words excluding references and potential figures) in week 5 (see weekly schedule). The link for handing in the report can be found on the course’s homepage. 
+- Submit a short report (<1,000 words excluding references and potential figures) in week 5 (see weekly schedule). The link for handing in the report can be found on the course’s homepage. The report should include links to the conversation or conversations with GenAI and briefly identify where using GenAI resulted in cognitive offloading and where and how GenAI supported learning.
 
 Grading:
 - Process: 30%. This is the course-wide individual process grade described above.
@@ -101,7 +101,7 @@ Steps:
   - If you redesigned or expanded the study, what would most improve it: another platform, data donation, survey linkage, designed big data, manual labels, better sampling, external benchmarks, or stronger model validation?
   - Does your final presentation make the whole logic visible: research question, target and observed population, collection method, error framework, model or analysis, findings, ethics and PRIDE, limitations, and next steps?
 - **Submit the slides and the PRIDE form before the deadline (see weekly schedule)** through the link on the home page. Please name your file groupX_PRIDE.pdf, groupX_presentation.pdf. 
-- Present the group project in week 8 (see weekly schedule). **Groups Cheetah, Pardus, Lynx and Tigris are present from 11:00 - 13:00. Groups Onca, Uncia, Leo, Puma and Caracal are present from 13:00 - 15:00. We expect all groups to actively engage with questions and discussion.**
+- Present the group project in week 8 (see weekly schedule). We expect all groups to actively engage with questions and discussion.
 - During the presentations, we require all other groups to active participate in the discussion and ask questions. 
 
 Grading:
