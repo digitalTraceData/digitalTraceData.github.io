@@ -9,6 +9,21 @@ The group project is a central part of the course. The project is designed to gi
 
 The slides used in the first lab are available [here](https://raw.githubusercontent.com/digitalTraceData/digitalTraceData.github.io/main/materials/Lab_Project_info.pdf).
 
+## Final presentation schedule
+
+Presentations take place on Friday 30 October in the room booked from 11:00 to 15:00. Each group has a 20-minute slot: 12 minutes of presentation, 5 minutes of Q&A, and 3 minutes to switch groups.
+
+| Time | Group |
+|---|---|
+| 11:00–11:20 | Caracal |
+| 11:20–11:40 | Cheetah |
+| 11:40–12:00 | Leo |
+| 12:00–12:20 | Lynx |
+| 12:20–12:50 | *Break* |
+| 12:50–13:10 | Onca |
+| 13:10–13:30 | Pardus |
+| 13:30–13:50 | Uncia |
+
 ## Feedback moments during workshops
 
 Feedback on the group project will take place during the regular workshop sessions. These moments combine peer review, short teacher check-ins, and time to continue working on the project.
