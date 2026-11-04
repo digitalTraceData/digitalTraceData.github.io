@@ -31,7 +31,7 @@ Readings point to the [course bibliography](./manual.html#required-readings-see-
 | 42 (6) | Oct 14 (Wed) | Ethics <br>[Lecture](https://github.com/digitalTraceData/digitalTraceData.github.io/raw/main/materials/lecture6_dtd.pdf) · [Lab](https://colab.research.google.com/github/digitalTraceData/digitalTraceData.github.io/blob/main/materials/lab6/lab6.ipynb) · [Solutions](https://colab.research.google.com/github/digitalTraceData/digitalTraceData.github.io/blob/main/materials/lab6/lab6_solutions.ipynb) | Read [Bit by Bit chapter 6](https://www.bitbybitbook.com/en/1st-ed/preface/), [Keymolen and Taylor (2023)](https://link.springer.com/chapter/10.1007/978-3-031-19554-9_20), and [Nissenbaum (2004)](http://www.contrib.andrew.cmu.edu/~danupam/RevnissenbaumDTP31.pdf). | Peer feedback session. See the [project guidelines](./project.html). |
 | 43 (7) | Oct 21 (Wed) | No lecture, only practical |  | Peer feedback session. See the [project guidelines](./project.html). |
 | 44 (8) | Oct 29 (Thu)<br>Oct 30 (Fri) | Group presentations |  | **Slides and PRIDE deadline**: Oct 29 (Thu), 23:59. Upload the final presentation slides and PRIDE form. Presentations are on Oct 30 (Fri), 11:00-15:00. See [Assignment 2](./project.html#assignment-2-errors-in-data-labeling-and-moving-past-errors). |
-| 45 (9) | Nov 4 (Wed) | Q&A lecture | Review course readings and bring questions. |  |
+| 45 (9) | Nov 4 (Wed) | Q&A lecture <br> [Lecture](https://github.com/digitalTraceData/digitalTraceData.github.io/raw/main/materials/lecture_recap.pdf)| Review course readings and bring questions. |  |
 | 45 (9) | Nov 6 (Fri) | Final exam (Remindo) |  |  |
 | 49 (resit) | Dec 4 (Fri) | Resit exam (Remindo) |  |  |
 
